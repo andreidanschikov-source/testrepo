@@ -89,7 +89,6 @@ private:
 
 int main() {
     LockFreeStack<int> s;
-
     s.push(5);
     int a = 0;
     return s.pop(a) ? a : -1;
