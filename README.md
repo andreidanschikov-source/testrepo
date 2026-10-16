@@ -96,3 +96,5 @@ If you have run out of energy or time for your project, put a note at the top of
 # SCM delivery suspend test 11:29:07Z
 # SCM delivery suspend test retry 11:32:00Z
 # SCM delivery timeout test 12:27:06Z
+
+awaiting-delivery check 2026-10-16T13:11:29Z
